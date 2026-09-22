@@ -69,68 +69,53 @@
 
     - Mission 2.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px;">
 
-### ❓ WHY  
-**과거의 문제의식**
+  <div style="border: 3px solid #0054a6; border-radius: 14px; padding: 20px;">
+    <h3>❓ WHY</h3>
+    <p><strong>과거의 문제의식</strong></p>
+    <p>당시 사람들은 어떤 불편함이나 결핍을 해결하려 했을까?</p>
+    <ul>
+      <li>조사한 과거의 미래 상상:</li>
+      <li>해결하고자 했던 문제:</li>
+      <li>이 상상이 등장한 사회적 배경:</li>
+    </ul>
+  </div>
 
-당시 사람들은 어떤 불편함이나 결핍을 해결하려 했을까?
+  <div style="border: 3px solid #0054a6; border-radius: 14px; padding: 20px;">
+    <h3>💡 WHAT</h3>
+    <p><strong>상상한 해결 방식</strong></p>
+    <p>그들은 미래의 일상을 어떤 모습으로 상상했을까?</p>
+    <ul>
+      <li>상상한 기술 또는 생활 모습:</li>
+      <li>특히 인상 깊었던 아이디어:</li>
+      <li>우리 팀의 생각:</li>
+    </ul>
+  </div>
 
-- 조사한 과거의 미래 상상:
-- 해결하고자 했던 문제:
-- 이 상상이 등장한 사회적 배경:
+  <div style="border: 3px solid #f26b00; border-radius: 14px; padding: 20px;">
+    <h3>⚙️ HOW</h3>
+    <p><strong>현재의 구현 방식</strong></p>
+    <p>과거의 상상은 오늘날 어떤 기술로 실현되었을까?</p>
+    <ul>
+      <li>현재 사용되는 관련 기술:</li>
+      <li>실제 구현 사례:</li>
+      <li>과거의 상상과 현재 기술의 차이:</li>
+    </ul>
+  </div>
 
-&nbsp;
+  <div style="border: 3px solid #f26b00; border-radius: 14px; padding: 20px;">
+    <h3>⚠️ NEXT</h3>
+    <p><strong>남은 문제와 한계</strong></p>
+    <p>기술이 발전하면서 새롭게 생긴 문제는 무엇일까?</p>
+    <ul>
+      <li>아직 해결되지 않은 과제:</li>
+      <li>사회적·윤리적 문제:</li>
+      <li>우리가 생각하는 미래의 방향:</li>
+    </ul>
+  </div>
 
-    </td>
-    <td width="50%" valign="top">
-
-### 💡 WHAT  
-**상상한 해결 방식**
-
-그들은 미래의 일상을 어떤 모습으로 상상했을까?
-
-- 상상한 기술 또는 생활 모습:
-- 특히 인상 깊었던 아이디어:
-- 우리 팀의 생각:
-
-&nbsp;
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### ⚙️ HOW  
-**현재의 구현 방식**
-
-과거의 상상은 오늘날 어떤 기술로 실현되었을까?
-
-- 현재 사용되는 관련 기술:
-- 실제 구현 사례:
-- 과거의 상상과 현재 기술의 차이:
-
-&nbsp;
-
-    </td>
-    <td width="50%" valign="top">
-
-### ⚠️ NEXT  
-**남은 문제와 한계**
-
-기술이 발전하면서 새롭게 생긴 문제는 무엇일까?
-
-- 아직 해결되지 않은 과제:
-- 사회적·윤리적 문제:
-- 우리가 생각하는 미래의 방향:
-
-&nbsp;
-
-    </td>
-  </tr>
-</table>
+</div>
 
   - 그들이 만들어가는 세상
   - 우리가 상상한 미래
